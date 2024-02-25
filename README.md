@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamirand1189
-- 👀 I’m interested in API's and Data Analyis
+- 👀 I’m interested in API's and Data Analysis
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on SOAP Api Development and/or Standalone Api development.
 - 📫 How to reach me: via LinkedIn at javier-miranda-3908b6147/
